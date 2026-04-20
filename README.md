@@ -1,4 +1,4 @@
-# Learning Platform SQL Project
+# Online Learning Platform SQL Project
 
 ## Overview
 This project demonstrates SQL proficiency using real-world analytics scenarios
